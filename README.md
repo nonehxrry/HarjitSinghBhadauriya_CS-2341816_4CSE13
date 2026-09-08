@@ -13,14 +13,14 @@ for the **Summer Internship Evaluation** for the academic year
   **Field**                 **Details**
   ------------------------- -----------------------------------------
   **Student Name**          Harjit Singh Bhadauriya
-  **Roll Number**           `[Enter Roll Number]`
+  **Roll Number**           `CS-2341816`
   **Program**               B.Tech Computer Science & Engineering
   **Semester**              7th
-  **Batch**                 2026--27
+  **Batch**                 2026-27
   **University**            IILM University, Greater Noida
-  **Organization**          `[Enter Organization Name]`
+  **Organization**          `Code-B Solutions Pvt. Ltd.`
   **Internship Role**       Java Backend & Cloud Engineering Intern
-  **Internship Duration**   `[Enter Internship Duration]`
+  **Internship Duration**   `6 Months`
 
 ------------------------------------------------------------------------
 
